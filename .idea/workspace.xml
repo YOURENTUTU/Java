@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4374253-0220-48c8-a15d-902c3d4e3662" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.hc/controllor/Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.hc/leetcode/CombinationSum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.hc/leetcode/DominantIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.hc/leetcode/FindIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.hc/leetcode/IsAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.hc/leetcode/MinRefuelStops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.hc/leetcode/RepeatedStringMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.hc/leetcode/ValidMountainArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.hc/leetcode/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.hc/leetcode/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.hc/leetcode/Leetcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.hc/leetcode/Leetcode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hc/leetcode/IntervalIntersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hc/leetcode/IntervalIntersection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hc/leetcode/Leetcode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hc/leetcode/Leetcode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hc/leetcode/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hc/leetcode/ThreeSum.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,31 +25,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/ContainsDuplicate3.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/ValidMountainArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+            <state relative-caret-position="110">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/SpiralMatrixIII.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/DominantIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/ThreeSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+            <state relative-caret-position="242">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,16 +62,29 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/RepeatedStringMatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/IsAnagram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="43" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="13" selection-end-column="43" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/IntervalIntersection.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/Leetcode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="88">
+              <caret line="4" column="91" lean-forward="true" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
             </state>
           </provider>
         </entry>
@@ -78,10 +108,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/leetcode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/ContainsDuplicate3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/DayOfYear.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/SpiralMatrixIII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/Leetcode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/IntervalIntersection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/SpiralMatrixIII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/FindIntegers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.hc/controllor/Queen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/MinRefuelStops.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/CombinationSum3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/ValidMountainArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/DominantIndex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/Leetcode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/RepeatedStringMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.hc/leetcode/IsAnagram.java" />
       </list>
     </option>
   </component>
@@ -97,10 +135,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -109,6 +147,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,25 +188,33 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com.hc" type="462c0819:PsiDirectoryNode" />
+              <item name="controllor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.hc" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566226036378" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566312522431" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -181,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Leetcode">
     <configuration name="Leetcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hc.leetcode.Leetcode" />
       <module name="work" />
@@ -195,9 +242,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Queen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hc.controllor.Queen" />
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hc.controllor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Leetcode" />
+        <item itemvalue="Application.Queen" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +276,8 @@
       <workItem from="1560698300970" duration="12000" />
       <workItem from="1560932831588" duration="47000" />
       <workItem from="1566117314416" duration="6019000" />
-      <workItem from="1566175217597" duration="19028000" />
+      <workItem from="1566175217597" duration="19256000" />
+      <workItem from="1566267709351" duration="23850000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1566216553329</created>
@@ -242,7 +304,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26203000" />
+    <option name="totallyTimeSpent" value="50281000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -255,8 +317,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -265,22 +328,22 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35409835" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44918033" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3885246" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36557376" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.46721312" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.29836065" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.59016395" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2672131" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.31967214" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" weight="0.32980332" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
@@ -311,6 +374,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -374,13 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/Leetcode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/com/hc/leetcode/ContainsDuplicate3.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -391,6 +461,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/ContainsDuplicate3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/IntervalIntersection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -398,32 +478,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/ContainsDuplicate3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/SpiralMatrixIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="274">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        <state relative-caret-position="-166">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/FindIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/controllor/Queen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/CombinationSum3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/MinRefuelStops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/ValidMountainArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/DominantIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/Leetcode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="91" lean-forward="true" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/RepeatedStringMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.hc/leetcode/IsAnagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
